@@ -1,2 +1,7 @@
 node_modules/
 build/
+.gitattributes
+.mocharc.json
+.prettierrc
+.waffle.json
+LICENSE
